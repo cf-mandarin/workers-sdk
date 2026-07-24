@@ -1,0 +1,21 @@
+packages/deploy-helpers/src/deploy/helpers/metrics-export.ts
+  s_fca675d71f883f::t_dc4f68b5ce9021 1-2,53-79,81-82,84-109,133,141-157
+packages/workers-utils/src/config/validation.ts
+  s_fca675d71f883f::t_4095297a196ef3 6380-6410,6417-6420
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "65fec707e208979279cd096a7e0aaff4daff5802",
+  "prompts": {},
+  "sessions": {
+    "s_fca675d71f883f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_070941e09ffexmWfHohjHLadX9",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
