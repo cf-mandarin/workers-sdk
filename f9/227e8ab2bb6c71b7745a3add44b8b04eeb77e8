@@ -1,0 +1,41 @@
+packages/deploy-helpers/src/deploy/helpers/metrics-export.ts
+  s_2583f5da604e75::t_8f2054fdd5c2bc 3-10,27,44,49,58-68,71,80,85,88-97,99-100,102-145,148-168,170-171,173-179,181,184-191,193-221
+packages/deploy-helpers/src/deploy/helpers/validate-worker-props.ts
+  s_2583f5da604e75::t_ba1d86048271b5 22,102-126
+packages/wrangler/src/__tests__/deploy/metrics-export.test.ts
+  s_e720d2a47710ac::t_64ba822a68241e 54,59-72,82-91,110,115-120,123-194,199-424,430,438-454,473,477
+packages/wrangler/src/__tests__/preview.test.ts
+  s_2583f5da604e75::t_71b5552eb8573f 9-13,50-78,82-85,105
+packages/wrangler/src/__tests__/versions/versions.deploy.test.ts
+  s_2583f5da604e75::t_69ac945255031b 188-203
+packages/wrangler/src/delete.ts
+  s_e720d2a47710ac::t_8cbdccf50d6b2d 2,156-157
+packages/wrangler/src/preview/preview.ts
+  s_e720d2a47710ac::t_37e5b0954323ac 792-800
+packages/wrangler/src/versions/deploy.ts
+  s_e720d2a47710ac::t_320599e7163b1c 114-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f9227e8ab2bb6c71b7745a3add44b8b04eeb77e8",
+  "prompts": {},
+  "sessions": {
+    "s_2583f5da604e75": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0284617d9ffe3qhUFAez8O7aRX",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    },
+    "s_e720d2a47710ac": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_028ca7a9cffeIwIqbYIYHLIo3m",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
