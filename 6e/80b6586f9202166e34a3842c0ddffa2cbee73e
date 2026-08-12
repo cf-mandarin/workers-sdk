@@ -1,0 +1,19 @@
+packages/deploy-helpers/src/deploy/helpers/metrics-export.ts
+  s_01a2337d2982f8::t_bbc1c1cb8e51c5 123,132,156-165,168-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6e80b6586f9202166e34a3842c0ddffa2cbee73e",
+  "prompts": {},
+  "sessions": {
+    "s_01a2337d2982f8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00ac8e429ffeQcrgEC5t2xAoQy",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
