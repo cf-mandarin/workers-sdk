@@ -1,0 +1,25 @@
+packages/wrangler/src/__tests__/deploy/core.test.ts
+  s_c41940cba01ec5::t_03fdfd073a4084 793,926
+packages/wrangler/src/__tests__/profiles.test.ts
+  s_c41940cba01ec5::t_bc88f44f443aa1 223,241
+packages/wrangler/src/__tests__/user.test.ts
+  s_c41940cba01ec5::t_9a1c655ac9fa43 109,197,243,289,331,1749
+packages/wrangler/src/__tests__/whoami.test.ts
+  s_c41940cba01ec5::t_558922121549a7 345,424,557
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c1484dcfbb695103f533c7d484d939050144f3d1",
+  "prompts": {},
+  "sessions": {
+    "s_c41940cba01ec5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_010233723ffep45VrOKMcHQ3cb",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
