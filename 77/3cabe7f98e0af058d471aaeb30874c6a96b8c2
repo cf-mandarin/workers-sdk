@@ -1,0 +1,33 @@
+.changeset/fuzzy-metrics-export.md
+  s_367e9eea0ea19c::t_442c8ca1635663 13-14
+packages/workers-utils/src/config/validation.ts
+  s_367e9eea0ea19c::t_c58dbbd6a648fd 6349-6354,6368-6375
+packages/workers-utils/tests/config/validation/normalize-and-validate-config.test.ts
+  s_c41940cba01ec5::t_433cc3a5e332c0 10186-10257
+packages/wrangler/src/__tests__/deploy/metrics-export.test.ts
+  s_c41940cba01ec5::t_22c855a07c5e92 54-72,279,293-299,301-395,398-399,404-458,477,482-504,506-522
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "773cabe7f98e0af058d471aaeb30874c6a96b8c2",
+  "prompts": {},
+  "sessions": {
+    "s_367e9eea0ea19c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0085996daffeK4neMsKz8dk7Ed",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    },
+    "s_c41940cba01ec5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_010233723ffep45VrOKMcHQ3cb",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
