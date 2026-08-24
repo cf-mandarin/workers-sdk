@@ -1,0 +1,19 @@
+packages/deploy-helpers/src/deploy/deploy.ts
+  s_d076579795ca67::t_3193b8bbcbce29 133,135-141,158,207-211,742,755-763,769-774,805
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e5ed111058e142f4a08d8502919036da2fb7a7f3",
+  "prompts": {},
+  "sessions": {
+    "s_d076579795ca67": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_01415648bffegpRTv4YrcIji5O",
+        "model": "gpt-5.6"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
