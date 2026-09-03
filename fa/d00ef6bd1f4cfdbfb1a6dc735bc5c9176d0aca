@@ -1,0 +1,19 @@
+packages/wrangler/src/__tests__/containers/deploy.test.ts
+  s_9a94963e8bf972::t_5130d89f2afbab 129,133-154,159-195,200-217,240-249,252-257,264-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fad00ef6bd1f4cfdbfb1a6dc735bc5c9176d0aca",
+  "prompts": {},
+  "sessions": {
+    "s_9a94963e8bf972": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f985b0c67ffe5j63P4jBg7qnSz",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "msemperesanchez <msemperesanchez@cloudflare.com>"
+    }
+  }
+}
